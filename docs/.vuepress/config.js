@@ -1,6 +1,7 @@
 module.exports = {
     title: '前端知识图谱',
     description: 'frontend knowledge graph',
+    base: '/knowledge-graph/',
     themeConfig: {
         nav: [
           { text: '综述', link: '/' },
